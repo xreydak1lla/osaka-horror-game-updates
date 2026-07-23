@@ -1,5 +1,7 @@
-# Osaka Horror Game Updates
+OSAKA HORROR GAME INSTALLER INSTRUCTIONS
 
-Public Windows release packages used by the Osaka Horror Game automatic updater.
-
-The launcher verifies every downloaded archive using SHA-256 before installing it.
+Players should only download:
+OsakaHorrorGameInstaller.exe
+The other two files are used automatically:
+The ZIP contains game updates.
+latest-windows.json tells the launcher which version to download and verifies it.
